@@ -15,6 +15,9 @@ selenium 1st test
     Sleep    5    
     Close Browser
     
+sample test
+    Log To Console    Sample test running    
+    
     
 
 
